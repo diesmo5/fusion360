@@ -3,6 +3,7 @@
 <h3>Under the following constraints</h3>
 
 <ul>
+
 <li>Only one person per rocket</li>
 <li>Project Name must be personalized(lastname_rocket)</li>
 <li>Must be to scale (How big would an actual rocket be?)</li>
